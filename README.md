@@ -34,7 +34,61 @@ public static void main(String[] args) {
 	83 = S
 
 #####Command Prompt
-	This was not used at all for this project
+	Microsoft Windows [Version 10.0.10240]
+(c) 2015 Microsoft Corporation. All rights reserved.
+
+C:\Users\Connor>e:
+
+E:\>dir
+ Volume in drive E has no label.
+ Volume Serial Number is 8034-CF85
+
+ Directory of E:\
+
+04/10/2015  10:48 AM         2,509,930 Deep Sea Powerpoint.pptm
+11/04/2015  01:49 PM    <DIR>          .metadata
+10/21/2015  12:31 PM            16,586 COMSC_1033_HW7_Connor_Holland.docx
+09/02/2015  03:52 PM         5,216,687 Report_Markup_2.docx
+09/02/2015  08:21 AM           131,276 COMSC_1033_HW1_Holland_Connor.docx
+09/02/2015  08:22 AM    <DIR>          PANI_Project
+10/02/2015  09:19 AM    <DIR>          Workspace
+               4 File(s)      7,874,479 bytes
+               3 Dir(s)   3,751,378,944 bytes free
+
+E:\>cd Workspace
+
+E:\Workspace>dir
+ Volume in drive E has no label.
+ Volume Serial Number is 8034-CF85
+
+ Directory of E:\Workspace
+
+10/02/2015  09:19 AM    <DIR>          .
+10/02/2015  09:19 AM    <DIR>          ..
+09/02/2015  09:14 AM    <DIR>          Compute_Area
+09/02/2015  09:00 AM    <DIR>          HelloWorld
+09/09/2015  09:03 AM    <DIR>          Classwork
+09/09/2015  09:40 AM    <DIR>          Sandbox
+09/09/2015  09:03 AM    <DIR>          Week_3_Classwork
+09/14/2015  09:29 AM    <DIR>          Homework
+09/16/2015  02:00 PM    <DIR>          Homework_3
+10/08/2015  12:59 PM    <DIR>          .metadata
+10/08/2015  01:19 PM    <DIR>          math_game
+               0 File(s)              0 bytes
+              11 Dir(s)   3,751,378,944 bytes free
+
+E:\Workspace>git init
+Initialized empty Git repository in E:/Workspace/.git/
+
+E:\Workspace>git branch
+
+E:\Workspace>git clone https://github.com/ConnorHolland/Funky-Monkey.git
+Cloning into 'Funky-Monkey'...
+remote: Counting objects: 27, done.
+remote: Compressing objects: 100% (17/17), done.
+remote: Total 27 (delta 7), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (27/27), done.
+Checking connectivity... done.
 
 ######Summary
 	This code generates a random uppercase character. We used the new command char letter = (char)variable.
