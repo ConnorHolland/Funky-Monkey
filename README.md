@@ -1,5 +1,45 @@
 # Homework 8
 
+###Listing 4_16
+
+#####Introduction
+	The code below will generate a random integer in base 10 and then display the corresponding character
+
+#####Code
+```java
+package development;
+public class dev {
+public static void main(String[] args) {
+
+	/*This code will generate a random base-10 integer
+	* It will then convert the integer into a character
+	* We will limit our characters to upper case letters
+	* These correspond to numbers 65-90 in base-10
+	*/
+	
+	
+	//Generate a random integer between 64-91
+	int number = (int)(65 + Math.random()*26);
+	System.out.print(number + " = ");
+	
+	//Convert the random integer to a character
+	char letter = (char)number;
+	System.out.println(letter);
+	
+
+	}
+}
+```
+######Console
+	83 = S
+
+#####Command Prompt
+	This was not used at all for this project
+
+######Summary
+	This code generates a random uppercase character. We used the new command char letter = (char)variable.
+
+
 ###COMSC 1033 Homework 6
 #####Introduction
 	Homework 6 focused on how to make a math game in java. The math game was made using previously learned java
