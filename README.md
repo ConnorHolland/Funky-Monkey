@@ -2,7 +2,13 @@
 
 ##COMSC 1033 Homework 6
 ###Introduction
-	Homework 6 focused on how to make a math game in java. The math game was made using previously learned java tricks. The only new trick introduced was the use of +=, *=, and /= operators. These operators allow previously defined variables to be changed incrementally. Through the use of the java tricks learned I was able to write a code that begins by asking a simple math question. If answered correctly the program awards points and asks a harder question. If incorrect, the program awards a smaller amount of points and follows up by asking an easier question. The program asks a total of four questions and lets the player know their final score.
+	Homework 6 focused on how to make a math game in java. The math game was made using previously learned java
+	tricks. The only new trick introduced was the use of +=, *=, and /= operators. These operators allow 
+	previously defined variables to be changed incrementally. Through the use of the java tricks learned I was
+	able to write a code that begins by asking a simple math question. If answered correctly the program awards
+	points and asks a harder question. If incorrect, the program awards a smaller amount of points and follows 
+	up by asking an easier question. The program asks a total of four questions and lets the player know their 
+	final score.
 ###Code
 ```java
 package development;
@@ -127,7 +133,7 @@ int q4guess = input.nextInt();
 	System.out.println("\nCongratulations and thanks for playing! We should do it again sometime :)");
 }}
  ```
-Console
+###Console
 Trial 1:
 Hello. Lets play a math game!
 I'll ask you four questions and award you points for their difficulty.
@@ -196,5 +202,8 @@ Your final score is 60 points.
 Congratulations and thanks for playing! We should do it again sometime :)
  
 ###Summary
-	This homework did not require learning anything new other than the aforementioned += operators. I was able to write the entire program in very little time. After I wrote it I went back in the code and formatted it. I was able to place all the variables in locations that could be found intuitively. I did not require the use of GIT to accomplish this homework.
+	This homework did not require learning anything new other than the aforementioned += operators. I was
+	able to write the entire program in very little time. After I wrote it I went back in the code and
+	formatted it. I was able to place all the variables in locations that could be found intuitively. I 
+	did not require the use of GIT to accomplish this homework.
 
