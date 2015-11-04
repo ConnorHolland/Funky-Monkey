@@ -132,9 +132,10 @@ int q4guess = input.nextInt();
 //End the game
 	System.out.println("\nCongratulations and thanks for playing! We should do it again sometime :)");
 }}
- ```
+```
+
 ###Console
-Trial 1:
+**Trial 1:**
 Hello. Lets play a math game!
 I'll ask you four questions and award you points for their difficulty.
 Answering all questions correctly will award you the most points.
@@ -167,7 +168,7 @@ Correct! You have earned 80 points.
 Your final score is  260 points.
 
 Congratulations and thanks for playing! We should do it again sometime :)
-Trial 2:
+**Trial 2:**
 Hello. Lets play a math game!
 I'll ask you four questions and award you points for their difficulty.
 Answering all questions correctly will award you the most points.
@@ -201,7 +202,7 @@ Your final score is 60 points.
 
 Congratulations and thanks for playing! We should do it again sometime :)
  
-###Summary
+####Summary
 	This homework did not require learning anything new other than the aforementioned += operators. I was
 	able to write the entire program in very little time. After I wrote it I went back in the code and
 	formatted it. I was able to place all the variables in locations that could be found intuitively. I 
