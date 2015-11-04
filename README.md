@@ -204,7 +204,7 @@ Your final score is 60 points.
 
 Congratulations and thanks for playing! We should do it again sometime :)
  
-####Summary
+###Summary
 	This homework did not require learning anything new other than the aforementioned += operators. I was
 	able to write the entire program in very little time. After I wrote it I went back in the code and
 	formatted it. I was able to place all the variables in locations that could be found intuitively. I 
