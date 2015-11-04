@@ -169,6 +169,7 @@ Your final score is  260 points.
 
 Congratulations and thanks for playing! We should do it again sometime :)
 
+
 **Trial 2:**
 Hello. Lets play a math game!
 I'll ask you four questions and award you points for their difficulty.
